@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Nathanson</h1>
 <h3 align="center">A passionate frontend developer from New York City</h3>
 
-- 🔭 I’m currently working on [NYC Foodies Trucks](https://github.com/j-nathanson/nyc-foodies-truckshttps://github.com/j-nathanson/nyc-foodies-trucks)
+- 🔭 I’m currently working on [NYC Foodies Trucks](https://nycft.surge.sh)
 
 - 🌱 I’m currently learning **React,React Native, and Sass** through [NuCamp](https://www.nucamp.co/)
 
