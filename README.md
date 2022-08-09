@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacob Nathanson</h1>
 <h3 align="center">A passionate developer from New York City</h3>
 
-- 🔭 I’m currently working on **designing a queuing app for sports players**
+- 🔭 I’m currently working on **developing a website to make it easier for New Yorkers to find/donate free goods**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, TDD, and figma**
+- 🌱 I’m currently learning **Material UI, PostgresSQL and how to work in an Agile environment**
 
 - 👨‍💻 All of my projects are available at [https://jacobnath.netlify.app/](https://jacobnath.netlify.app/)
 
